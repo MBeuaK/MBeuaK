@@ -3,7 +3,7 @@
 - 🔭 I’m currently working hard on become a Java Devoloper
 - 🌱 I’m currently improving in speaking both English and Spanish
 - 😄 Pronouns: Ele/Dele - Him/His
-- ⚡ Fun fact: I have a little of experience in front-end 
+- ⚡ Fun fact: my name means Hawk in Tupi-Guarani
 
 <div align="center">
   <a href="https://github.com/MBeuaK">
