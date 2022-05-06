@@ -1,7 +1,7 @@
 ## Olá, me chamo Kauê Batista e sou estudante de programação e tecnologia!
 
-- 🔭 I’m currently working hard on become a Java Devoloper
-- 🌱 I’m currently improving in speaking both English and Spanish
+- 🔭 I’m currently working hard on become a better Java Devoloper
+- 🌱 I’m currently improving in speaking English, Spanish and French... all three of them at once!
 - 😄 Pronouns: Ele/Dele - Him/His
 - ⚡ Fun fact: my name means Hawk in Tupi-Guarani
 
